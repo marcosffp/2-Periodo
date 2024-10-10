@@ -1,4 +1,3 @@
-```markdown
 # **Introdução**
 
 ### 1. **Programação Modular**
@@ -42,4 +41,3 @@
 - **Simula 67 e Smalltalk:** Primeiros exemplos de código que implementam os conceitos de classes e herança na POO.
 
 Esses pontos cobrem os principais conceitos de Programação Modular e POO, além de fornecer um contexto histórico sobre a evolução dessas abordagens.
-```
