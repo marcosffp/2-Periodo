@@ -1,0 +1,24 @@
+### Resumo Objetivo: Normalização de Bancos de Dados
+
+- **Definição de Normalização**
+    - Processo de estruturar bancos de dados para reduzir redundâncias e evitar anomalias.
+- **1ª Forma Normal (1NF)**
+    - Atributos devem ser atômicos.
+    - Proibição de atributos multivalorados e grupos repetitivos.
+    - Cada linha deve ter uma chave primária única.
+- **Dependências Funcionais**
+    - Relacionamento onde um atributo \( x \) determina \( y \) (ex: CPF determina nome).
+- **2ª Forma Normal (2NF)**
+    - Aplica-se a chaves primárias compostas.
+    - Todos os atributos não chave devem depender totalmente da chave primária.
+    - Eliminação de dependências parciais.
+- **3ª Forma Normal (3FN)**
+    - Deve estar na 2NF.
+    - Nenhum atributo não chave deve depender de outro atributo não chave (dependência transitiva).
+- **Forma Normal de Boyce-Codd (BCNF)**
+    - Uma versão mais rigorosa da 3FN.
+    - Para cada dependência funcional \( X \rightarrow Y \), \( X \) deve ser uma super chave.
+- **Importância da Normalização**
+    - Cria um modelo relacional robusto, minimizando anomalias e garantindo a integridade dos dados.
+- **Próximos Passos**
+    - A próxima unidade abordará a linguagem SQL (DDL e DML).
