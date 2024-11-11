@@ -1,0 +1,27 @@
+Resumo dos pontos principais:
+
+- **Definição de Indicadores**: Essenciais para o gerenciamento de desempenho organizacional, alinhando os objetivos com o foco no cliente.
+- **Importância de Medir para Gerenciar**: Inspirado em Peter Drucker – o que não é medido, não pode ser gerenciado.
+- **Perguntas-Chave na Medição**:
+  - O que medir?
+  - Quando medir?
+  - Quem mede?
+  - Como medir?
+- **Termos Fundamentais**:
+  - **Medição**: Ação de medir o desempenho.
+  - **Medida**: Quantificação dos dados.
+  - **Métrica**: Informação contextualizada.
+  - **Indicador**: Ferramenta de gestão para avaliar desempenho.
+- **Tipos de Indicadores**: 
+  - Pessoais, satisfação do cliente, sociais, ambientais, qualidade, marketing, entre outros.
+- **Exemplos Práticos**:
+  - Indicador "Custo de Treinamento por Unidade": Mede participação das unidades no custo de treinamento.
+- **Características de Indicadores Eficientes**:
+  - Precisão, simplicidade, economia e eficácia.
+- **Seleção Adequada**:
+  - Focar em poucos indicadores relevantes e úteis para evitar sobrecarga de dados.
+- **Aplicação dos Indicadores**:
+  - Avaliar saídas de atividades do processo para identificar potenciais indicadores, como "número de propostas elaboradas".
+- **Papel dos Indicadores**:
+  - Facilitar decisões, avaliar resultados, e auxiliar na melhoria de processos e produtos.
+- **Automação**: Tecnologia pode simplificar a coleta e o monitoramento, tornando o processo menos oneroso.
